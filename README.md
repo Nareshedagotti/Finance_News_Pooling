@@ -86,9 +86,8 @@ Create a `.env` inside **backend/**:
 GEMINI_API_KEY=your_key
 MONGO_URI=mongodb+srv://user:pass@cluster.mongodb.net/?retryWrites=true&w=majority
 MONGO_DB=newsdb
-MONGO_COLLECTION=news_structured
+MONGO_COLLECTION=news
 
-INTERVAL_MIN=2
 
 # Frontend build directory (FastAPI serves this)
 FRONTEND_DIR=../frontend/dist
@@ -286,3 +285,4 @@ Rebuild:
 ```
 npm run build
 ```
+
