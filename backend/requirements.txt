@@ -1,0 +1,26 @@
+# Scraping
+requests
+beautifulsoup4
+lxml
+python-dateutil
+
+# Numpy pinned to 1.x to avoid ABI breakage with current PyTorch wheels
+numpy
+
+# CPU-only PyTorch stack (compatible with numpy==1.26.4)
+torch
+torchvision
+torchaudio
+
+# Embeddings stack (compatible with above & no cached_download usage)
+sentence-transformers
+transformers
+huggingface_hub
+
+# Optional (debugging)
+pandas
+
+google-genai
+pymongo
+jsonschema
+python-dotenv
