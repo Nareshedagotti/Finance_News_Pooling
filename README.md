@@ -4,6 +4,13 @@ An automated system that fetches real-time financial news, filters + deduplicate
 
 Runs continuously every few minutes, fully autonomous.
 
+**Application Demo**
+
+<img width="1859" height="898" alt="Screenshot 2025-11-29 114330" src="https://github.com/user-attachments/assets/07341b94-8223-4a73-b7ac-8465f41823c2" />
+<img width="1841" height="852" alt="Screenshot 2025-11-29 114751" src="https://github.com/user-attachments/assets/d7d4389b-26be-49a0-afa4-e6cf93addf0d" />
+<img width="1866" height="911" alt="Screenshot 2025-11-29 115346" src="https://github.com/user-attachments/assets/9fa479a5-11f9-4e23-9591-d4112d07e499" />
+<img width="1849" height="809" alt="Screenshot 2025-11-29 121205" src="https://github.com/user-attachments/assets/f158673e-400b-4789-878b-849b211cc6ee" />
+
 ---
 
 # Overview
@@ -285,4 +292,5 @@ Rebuild:
 ```
 npm run build
 ```
+
 
